@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">잊혀진을 찾을 수</string>
+    <string name="action_search">수색</string>
+    <string name="button_find">발견</string>
+    <string name="button_place">장소</string>
+    <string name="category">상품 카테고리</string>
+    <string name="delete">지우다</string>
+    <string name="description">배치에 대한 세부 정보</string>
+    <string name="place">배치에 대한 세부 정보</string>
+    <string name="done">끝난 </string>
+    <string name="keep">유지</string>
+    <string name="no">아니</string>
+    <string name="progress_info">잠시 기다려주십시오 ...</string>
+    <string name="rotate_info">잠시 기다려주십시오 ...</string>
+    <string name="remove_info">당신은 그것을 삭제 하시겠습니까?</string>
+    <string name="retake">다시 잡다</string>
+    <string name="save">구하다 </string>
+    <string name="yes">예</string>
+    <string name="documents">문서 </string>
+    <string name="tools">도구 </string>
+    <string name="clothing">의류 </string>
+    <string name="electronics">전자 </string>
+    <string name="cosmetics">화장품 </string>
+    <string name="toys">화장품 </string>
+    <string name="crockery">그릇 </string>
+    <string name="bags"><![CDATA[가방 & 신발]]></string>
+    <string name="jewelry">보석 </string>
+    <string name="sports">스포츠 </string>
+    <string name="medicines">의약품 </string>
+    <string name="others">다른 </string>
+    <string name="all">모든 </string>
+</resources>

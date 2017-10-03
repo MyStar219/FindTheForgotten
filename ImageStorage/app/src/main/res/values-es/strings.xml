@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">encontrar los olvidados</string>
+    <string name="action_search">Buscar</string>
+    <string name="button_find">Encontrar</string>
+    <string name="button_place">Lugar</string>
+    <string name="category">Categoría elemento</string>
+    <string name="delete">Borrar</string>
+    <string name="description">Detalle acerca de la colocación</string>
+    <string name="place">Detalle acerca de la colocación</string>
+    <string name="done">Hecho</string>
+    <string name="keep">Guardar</string>
+    <string name="no">no </string>
+    <string name="progress_info"> Por favor espera...</string>
+    <string name="remove_info">¿Es usted desea eliminarlo?</string>
+    <string name="retake">Volver a tomar</string>
+    <string name="rotate_info">Girar la imagen. Por favor espera...</string>
+    <string name="save">Salvar</string>
+    <string name="yes">Sí</string>
+    <string name="documents">Documentos </string>
+    <string name="tools">herramientas </string>
+    <string name="clothing">ropa </string>
+    <string name="electronics">Electrónica </string>
+    <string name="cosmetics">cosméticos </string>
+    <string name="toys">juguetes </string>
+    <string name="crockery">vajilla </string>
+    <string name="bags">bolsos y zapatos</string>
+    <string name="jewelry">joyas </string>
+    <string name="sports">Deportes  </string>
+    <string name="medicines">medicamentos </string>
+    <string name="others">otros </string>
+    <string name="all">todas </string>
+</resources>

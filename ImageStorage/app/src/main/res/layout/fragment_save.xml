@@ -1,0 +1,67 @@
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearLayoutTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:text="@string/category"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_marginBottom="10dp"
+            android:background="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Spinner
+            android:id="@+id/spinnerCategory"
+            android:textColor="@color/white"
+            style="@style/SpinnerAppTheme"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="@string/place"
+            android:background="@color/black"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/editTextPlace"
+            android:background="@color/colorPrimaryDark"
+            android:textSize="22dp"
+            android:textColor="@color/white"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+
+        <Button
+            android:text="@string/done"
+            android:layout_marginTop="20dp"
+            android:id="@+id/buttonDone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:background="@drawable/button_group"
+            android:shadowColor="#3EA8A4"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">گم چیزیں تلاش کرو</string>
+    <string name="action_search">تلاش کریں</string>
+    <string name="button_find">تلاش</string>
+    <string name="button_place">رکھیں</string>
+    <string name="category">آئٹم کی قسم</string>
+    <string name="delete">حذف کریں</string>
+    <string name="description"><![CDATA[جگہ  کے بارے میں تفصیل]]></string>
+    <string name="done">ہوگیا</string>
+    <string name="keep">رکھو</string>
+    <string name="no">نہیں</string>
+    <string name="place"><![CDATA[جگہ  کے بارے میں تفصیل]]></string>
+    <string name="progress_info">برائے مہربانی انتظار کریں</string>
+    <string name="remove_info">آپ اسے حذف کرنا چاہتے ہیں؟</string>
+    <string name="retake">دوبارہ لیں</string>
+    <string name="rotate_info">برائے مہربانی انتظار کریں...</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="yes">جی ہاں</string>
+    <string name="documents">دستاویزات</string>
+    <string name="tools">اوزار</string>
+    <string name="clothing">لباس</string>
+    <string name="electronics">الیکٹرانکس</string>
+    <string name="cosmetics">کاسمیٹکس</string>
+    <string name="toys">کھلونے</string>
+    <string name="crockery">کراکری</string>
+    <string name="bags">بیگ اور جوتے</string>
+    <string name="jewelry">زیورات</string>
+    <string name="sports">کھیلوں </string>
+    <string name="medicines">ادویات </string>
+    <string name="others">دوسروں </string>
+    <string name="all">تمام </string>
+</resources>

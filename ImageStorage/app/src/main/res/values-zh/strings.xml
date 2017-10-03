@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">找到被遗忘</string>
+    <string name="action_search">搜索</string>
+    <string name="button_find">找</string>
+    <string name="button_place">地点</string>
+    <string name="category">项目类别</string>
+    <string name="delete">删除</string>
+    <string name="description">有关详细安排</string>
+    <string name="done">做</string>
+    <string name="keep">保持</string>
+    <string name="no">没有</string>
+    <string name="place">有关详细安排</string>
+    <string name="progress_info">请稍候...</string>
+    <string name="remove_info">你想删除它？</string>
+    <string name="retake">重拍</string>
+    <string name="rotate_info">图片旋转。 请稍候...</string>
+    <string name="save">保存</string>
+    <string name="yes">是</string>
+    <string name="documents">文件</string>
+    <string name="tools">工具</string>
+    <string name="clothing">服装 </string>
+    <string name="electronics">电子</string>
+    <string name="cosmetics">化妆品</string>
+    <string name="toys">玩具</string>
+    <string name="crockery">陶器</string>
+    <string name="bags">包及鞋子</string>
+    <string name="jewelry">珠宝</string>
+    <string name="sports"> 体育</string>
+    <string name="medicines">药品</string>
+    <string name="others"> 其他</string>
+    <string name="all"> 所有</string>
+</resources>

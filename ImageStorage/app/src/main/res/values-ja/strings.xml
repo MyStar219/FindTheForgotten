@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">忘れを見つけます</string>
+    <string name="action_search">サーチ</string>
+    <string name="button_find" >見つけます</string>
+    <string name="button_place">場所</string>
+    <string name="category">アイテムカテゴリ</string>
+    <string name="delete">削除</string>
+    <string name="description">配置についての詳細</string>
+    <string name="place">配置についての詳細</string>
+    <string name="done">終わりました</string>
+    <string name="keep">キープ</string>
+    <string name="no">いいえ</string>
+    <string name="progress_info">お待ちください...</string>
+    <string name="remove_info">あなたはそれを削除しますか？</string>
+    <string name="retake">取り戻します</string>
+    <string name="rotate_info">画像が回転します。 お待ちください...</string>
+    <string name="yes">セーブ</string>
+    <string name="save">セーブ</string>
+    <string name="documents">ドキュメント</string>
+    <string name="tools">ツール</string>
+    <string name="clothing">衣類 </string>
+    <string name="electronics">エレクトロニク</string>
+    <string name="cosmetics">化粧品</string>
+    <string name="toys">おもちゃ</string>
+    <string name="crockery">食器</string>
+    <string name="bags">バッグ＆シューズ</string>
+    <string name="jewelry">ジュエリー</string>
+    <string name="sports">スポーツ</string>
+    <string name="medicines">医薬品</string>
+    <string name="others">他人</string>
+    <string name="all">すべて</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">भूल गए खोजना</string>
+    <string name="action_search">खोज</string>
+    <string name="button_find">खोज</string>
+    <string name="button_place">जगह</string>
+    <string name="category">आइटम श्रेणी</string>
+    <string name="delete">मिटाना</string>
+    <string name="description">स्थान के बारे में विस्तार</string>
+    <string name="place">स्थान के बारे में विस्तार</string>
+    <string name="done">किये गए</string>
+    <string name="keep">रखना</string>
+    <string name="no">नहीं</string>
+    <string name="progress_info">कृपया प्रतीक्षा करें...</string>
+    <string name="remove_info">आप इसे नष्ट करने के लिए करना चाहते हैं?</string>
+    <string name="retake">फिर से लेना</string>
+    <string name="rotate_info">चित्र को घुमाएगी। कृपया प्रतीक्षा करें...</string>
+    <string name="save">बचाना</string>
+    <string name="yes">हाँ</string>
+    <string name="documents">दस्तावेज </string>
+    <string name="tools">उपकरण </string>
+    <string name="clothing">कपड़े </string>
+    <string name="electronics">इलेक्ट्रानिक्स </string>
+    <string name="cosmetics">प्रसाधन सामग्री </string>
+    <string name="toys">खिलौने </string>
+    <string name="crockery">क्रॉकरी </string>
+    <string name="bags">बैग और जूते</string>
+    <string name="jewelry">गहने </string>
+    <string name="sports">खेल </string>
+    <string name="medicines">दवाई </string>
+    <string name="others">दवाई </string>
+    <string name="all">सब </string>
+</resources>

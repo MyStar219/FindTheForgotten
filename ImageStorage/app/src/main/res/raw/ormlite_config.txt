@@ -1,0 +1,45 @@
+#
+# generated on 2016/05/05 03:55:46
+#
+# --table-start--
+dataClass=pl.logiti.imagestorage.models.Category
+tableName=category
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=name
+columnName=name
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=pl.logiti.imagestorage.models.Item
+tableName=item
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=categoryId
+columnName=category_id
+# --field-end--
+# --field-start--
+fieldName=path
+columnName=path
+# --field-end--
+# --field-start--
+fieldName=pathThumb
+columnName=path_thumb
+# --field-end--
+# --field-start--
+fieldName=description
+columnName=description
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">menemukan dilupakan</string>
+    <string name="action_search">Pencarian</string>
+    <string name="button_find">Menemukan</string>
+    <string name="button_place">Tempat</string>
+    <string name="category">Item Kategori</string>
+    <string name="delete">Menghapus</string>
+    <string name="description">Detil tentang penempatan</string>
+    <string name="place">Detil tentang penempatan</string>
+    <string name="progress_info"> Mohon tunggu...</string>
+    <string name="rotate_info"> Mohon tunggu...</string>
+    <string name="done">matang</string>
+    <string name="keep">Menjaga</string>
+    <string name="no">tidak</string>
+    <string name="remove_info">Apakah Anda ingin menghapusnya?</string>
+    <string name="retake">Merebut kembali</string>
+    <string name="save">Menyimpan </string>
+    <string name="yes">iya nih</string>
+    <string name="documents">dokumen</string>
+    <string name="tools">alat</string>
+    <string name="clothing">pakaian</string>
+    <string name="electronics">Electronics</string>
+    <string name="cosmetics">kosmetik</string>
+    <string name="toys">mainan</string>
+    <string name="crockery">peralatannya</string>
+    <string name="bags"><![CDATA[tas & sepatu]]></string>
+    <string name="jewelry">perhiasan</string>
+    <string name="sports">olahraga</string>
+    <string name="medicines">obat-obatan</string>
+    <string name="others">lain</string>
+    <string name="all"> semua</string>
+</resources>

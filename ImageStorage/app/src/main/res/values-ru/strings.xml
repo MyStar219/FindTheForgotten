@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">найти забытые</string>
+    <string name="button_find" >найти</string>
+    <string name="action_search">Поиск</string>
+    <string name="button_place">Место</string>
+    <string name="category">Пункт Категория</string>
+    <string name="delete">Удалить</string>
+    <string name="description">Фрагмент о размещении</string>
+    <string name="done">Готово</string>
+    <string name="keep">Держать</string>
+    <string name="no">нет</string>
+    <string name="progress_info">Пожалуйста, подождите...</string>
+    <string name="place">Фрагмент о размещении</string>
+    <string name="remove_info">Вы хотите, чтобы удалить его?</string>
+    <string name="retake">пересдавать</string>
+    <string name="rotate_info">Изображение вращаться. Пожалуйста, подождите...</string>
+    <string name="save">Сохранить</string>
+    <string name="yes">да</string>
+    <string name="documents">Документы</string>
+    <string name="tools">инструменты</string>
+    <string name="clothing">одежда</string>
+    <string name="electronics">Электроника</string>
+    <string name="cosmetics">косметика</string>
+    <string name="toys">игрушки</string>
+    <string name="crockery">посуда</string>
+    <string name="bags">сумки и обувь</string>
+    <string name="jewelry">Ювелирные изделия</string>
+    <string name="sports">виды спорта</string>
+    <string name="medicines">лекарства</string>
+    <string name="others">другие</string>
+    <string name="all">все</string>
+</resources>

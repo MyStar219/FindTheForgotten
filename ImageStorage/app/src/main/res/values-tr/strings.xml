@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">unutulmuş bulmak</string>
+    <string name="action_search">Arama</string>
+    <string name="button_find">bulmak</string>
+    <string name="button_place">yer</string>
+    <string name="category">Ürün Kategorisi</string>
+    <string name="delete">silmek</string>
+    <string name="description">yerleştirme hakkında ayrıntılı</string>
+    <string name="place">yerleştirme hakkında ayrıntılı</string>
+    <string name="done">tamam</string>
+    <string name="keep">tutmak</string>
+    <string name="no">yok hayır</string>
+    <string name="progress_info">Lütfen bekle...</string>
+    <string name="rotate_info">Lütfen bekle...</string>
+    <string name="remove_info">Bunu silmek istiyor musunuz?</string>
+    <string name="retake">geri almak</string>
+    <string name="save">Kaydet</string>
+    <string name="yes">Evet</string>
+    <string name="documents">Belgeler</string>
+    <string name="tools">araç gereç</string>
+    <string name="clothing">giyim</string>
+    <string name="electronics">Elektronik</string>
+    <string name="cosmetics">kozmetik</string>
+    <string name="toys">oyuncaklar</string>
+    <string name="crockery">çanak çömlek</string>
+    <string name="bags">çanta ve ayakkabı</string>
+    <string name="jewelry">takı</string>
+    <string name="sports">spor</string>
+    <string name="medicines">ilaçlar</string>
+    <string name="others">diğerleri</string>
+    <string name="all">herşey</string>
+</resources>

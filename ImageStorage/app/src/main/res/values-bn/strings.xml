@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">অনুসন্ধান</string>
+    <string name="button_find">আবিষ্কার</string>
+    <string name="button_place">জায়গা</string>
+    <string name="category">আইটেম শ্রেণী</string>
+    <string name="delete">মুছে ফেলা</string>
+    <string name="description">বসানো সম্পর্কে বিস্তারিত</string>
+    <string name="place">বসানো সম্পর্কে বিস্তারিত</string>
+    <string name="done">সম্পন্ন</string>
+    <string name="keep">রাখা</string>
+    <string name="no">না</string>
+    <string name="progress_info">অনুগ্রহপূর্বক অপেক্ষা করুন...</string>
+    <string name="rotate_info">অনুগ্রহপূর্বক অপেক্ষা করুন...</string>
+    <string name="remove_info">আপনি এটি মুছে ফেলতে চান না?</string>
+    <string name="retake">পুনরধিকার করা</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="yes">হাঁ</string>
+    <string name="all">All</string>
+    <string name="bags">Bags and Shoes</string>
+    <string name="clothing">Clothing</string>
+    <string name="cosmetics">Cosmetics</string>
+    <string name="crockery">Crockery</string>
+    <string name="documents">Documents</string>
+    <string name="electronics">Electronics</string>
+    <string name="jewelry">jewelry</string>
+    <string name="medicines">medicines</string>
+    <string name="others">Others</string>
+    <string name="sports">Sports</string>
+    <string name="tools">Tools</string>
+    <string name="toys">Toys</string>
+    <string name="app_name">বিস্মৃত এটি</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">finden Sie das vergessen</string>
+    <string name="action_search">Suche</string>
+    <string name="button_find">Finden</string>
+    <string name="button_place">Ort</string>
+    <string name="category">Artikel Kategorie</string>
+    <string name="delete">Löschen</string>
+    <string name="description">Einzelheiten über die Platzierung</string>
+    <string name="place">Einzelheiten über die Platzierung</string>
+    <string name="done">Erledigt</string>
+    <string name="keep">Behalten</string>
+    <string name="no">Nein </string>
+    <string name="progress_info">Warten Sie mal...</string>
+    <string name="remove_info">Sie wollen, dass es zu löschen?</string>
+    <string name="retake">Wiederholung</string>
+    <string name="rotate_info">Bild drehen. Warten Sie mal...</string>
+    <string name="save">sparen </string>
+    <string name="yes">ja</string>
+    <string name="documents">Dokumente </string>
+    <string name="tools">Werkzeuge </string>
+    <string name="clothing">Kleidung </string>
+    <string name="electronics">Elektronik </string>
+    <string name="cosmetics">Kosmetik </string>
+    <string name="toys">Spielzeug </string>
+    <string name="crockery">Geschirr </string>
+    <string name="bags"><![CDATA[Taschen & Schuhe]]></string>
+    <string name="jewelry">Schmuck </string>
+    <string name="sports">Sport </string>
+    <string name="medicines">Medikamente </string>
+    <string name="others">andere </string>
+    <string name="all">alle </string>
+</resources>

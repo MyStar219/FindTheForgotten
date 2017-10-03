@@ -1,0 +1,18 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/black"
+    android:layout_width="match_parent"
+
+    android:layout_height="40dp">
+
+    <TextView
+
+        android:id="@+id/textViewCategory"
+        android:background="@color/colorAccentSecond"
+        android:padding="7dp"
+        android:layout_margin="1dp"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"/>
+</RelativeLayout>

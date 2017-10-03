@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">بحث</string>
+    <string name="button_find">تجد</string>
+    <string name="button_place">مكان</string>
+    <string name="category">العنصر فئة</string>
+    <string name="delete">حذف</string>
+    <string name="description">التفاصيل حول وضع</string>
+    <string name="place">التفاصيل حول وضع</string>
+    <string name="done">فعله</string>
+    <string name="keep">احتفظ</string>
+    <string name="no">لا</string>
+    <string name="progress_info">أرجو الإنتظار...</string>
+    <string name="remove_info">هل تريد حذفه؟</string>
+    <string name="retake">استعادة</string>
+    <string name="rotate_info">الصورة تدوير. أرجو الإنتظار...</string>
+    <string name="save">حفظ</string>
+    <string name="yes">نعم فعلا</string>
+    <string name="documents">وثائق</string>
+    <string name="tools"> أدوات</string>
+    <string name="clothing">ملابس </string>
+    <string name="electronics"> الالكترونيات</string>
+    <string name="cosmetics"> مواد تجميل</string>
+    <string name="toys">اللعب </string>
+    <string name="crockery"> الأواني الفخارية</string>
+    <string name="bags">أحذية و حقائب </string>
+    <string name="jewelry"> المجوهرات</string>
+    <string name="sports"> رياضات </string>
+    <string name="medicines"> أدوية </string>
+    <string name="others"> آخرون </string>
+    <string name="all"> جميع</string>
+    <string name="app_name">العثور على النسيان</string>
+</resources>

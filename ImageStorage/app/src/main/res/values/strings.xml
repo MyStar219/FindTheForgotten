@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Find The Forgotten</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="button_place">Place</string>
+    <string name="button_find">Find</string>
+    <string name="take_photo" translatable="false">TAKE PHOTO</string>
+    <string name="category">Item Category</string>
+    <string name="retake">Retake</string>
+    <string name="save">Save</string>
+    <string name="keep">Keep</string>
+    <string name="delete">Delete</string>
+    <string name="description">Detail about placement</string>
+    <string name="place">Detail about placement</string>
+    <string name="done">Done</string>
+    <string name="time" translatable="false">3 second splash screen</string>
+    <string name="welcome" translatable="false">Welcome</string>
+    <string name="yes">Yes</string>
+    <string name="no">no</string>
+    <string name="remove_info">Do You want delete to it?</string>
+    <string name="progress_info">Please wait...</string>
+    <string name="rotate_info">Picture rotating. Please wait...</string>
+    <string name="action_search">Search</string>
+    <string name="documents">Documents</string>
+    <string name="tools">Tools</string>
+    <string name="clothing">Clothing</string>
+    <string name="electronics">Electronics</string>
+    <string name="cosmetics">Cosmetics</string>
+    <string name="toys">Toys</string>
+    <string name="crockery">Crockery</string>
+    <string name="bags">Bags and Shoes</string>
+    <string name="jewelry">Jewelry</string>
+    <string name="sports">Sports</string>
+    <string name="medicines">Medicines</string>
+    <string name="others">Others</string>
+    <string name="all">All</string>
+</resources>
